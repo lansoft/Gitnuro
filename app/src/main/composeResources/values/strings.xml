@@ -2,192 +2,192 @@
     <string name="app_name">Gitnuro</string>
 
     <!-- Generic -->
-    <string name="generic_button_ok">OK</string>
-    <string name="generic_button_cancel">Cancel</string>
-    <string name="generic_button_continue">Continue</string>
-    <string name="generic_save_as_default">Save as default</string>
+    <string name="generic_button_ok">OK（确定）</string>
+    <string name="generic_button_cancel">Cancel（取消）</string>
+    <string name="generic_button_continue">Continue（继续）</string>
+    <string name="generic_save_as_default">Save as default（保存为默认）</string>
 
     <!-- Home page -->
-    <string name="home_button_open_repository">Open a repository</string>
-    <string name="home_button_clone_repository">Clone a repository</string>
-    <string name="home_button_start_repository">Start a local repository</string>
-    <string name="home_label_additional_options">Additional options</string>
-    <string name="home_button_source_code">Source code</string>
-    <string name="home_button_report_bug">Report a bug</string>
-    <string name="home_button_additional_information">Additional information</string>
-    <string name="home_button_settings">Settings</string>
+    <string name="home_button_open_repository">Open a repository（打开仓库）</string>
+    <string name="home_button_clone_repository">Clone a repository（克隆仓库）</string>
+    <string name="home_button_start_repository">Start a local repository（创建本地仓库）</string>
+    <string name="home_label_additional_options">Additional options（更多选项）</string>
+    <string name="home_button_source_code">Source code（源代码）</string>
+    <string name="home_button_report_bug">Report a bug（报告问题）</string>
+    <string name="home_button_additional_information">Additional information（更多信息）</string>
+    <string name="home_button_settings">Settings（设置）</string>
 
-    <string name="home_recent_repositories_search_label">Search for recent repositories</string>
-    <string name="home_recent_repositories_list_empty">Nothing to see here, open a repository first!</string>
-    <string name="home_recent_repositories_remove_repository">Remove repository from recent</string>
+    <string name="home_recent_repositories_search_label">Search for recent repositories（搜索最近仓库）</string>
+    <string name="home_recent_repositories_list_empty">Nothing to see here, open a repository first!（这里啥都没有，先打开一个仓库吧！）</string>
+    <string name="home_recent_repositories_remove_repository">Remove repository from recent（从最近列表中移除仓库）</string>
 
     <!-- Top menu -->
-    <string name="menu_open">Open</string>
-    <string name="menu_open_dialog_title">Open a repository</string>
-    <string name="menu_open_tooltip">Open a different repository</string>
-    <string name="menu_pull">Pull</string>
-    <string name="menu_pull_default">Pull current branch</string>
-    <string name="menu_pull_rebase">Pull current branch with rebase</string>
-    <string name="menu_push">Push</string>
-    <string name="menu_push_tooltip">Push current branch changes</string>
-    <string name="menu_branch">Branch</string>
-    <string name="menu_branch_tooltip">Create a new branch</string>
-    <string name="menu_stash">Stash</string>
-    <string name="menu_stash_tooltip">Stash uncommitted changes</string>
-    <string name="menu_pop_stash">Pop stash</string>
-    <string name="menu_pop_stash_tooltip">Pop the last stash</string>
-    <string name="menu_terminal">Terminal</string>
-    <string name="menu_terminal_tooltip">Open a terminal in the repository's path</string>
-    <string name="menu_actions">Actions</string>
-    <string name="menu_actions_tooltip">Additional actions</string>
-    <string name="menu_settings">Settings</string>
-    <string name="menu_settings_tooltip">Gitnuro's settings</string>
+    <string name="menu_open">Open（打开）</string>
+    <string name="menu_open_dialog_title">Open a repository（打开仓库）</string>
+    <string name="menu_open_tooltip">Open a different repository（打开其他仓库）</string>
+    <string name="menu_pull">Pull（拉取）</string>
+    <string name="menu_pull_default">Pull current branch（拉取当前分支）</string>
+    <string name="menu_pull_rebase">Pull current branch with rebase（变基拉取当前分支）</string>
+    <string name="menu_push">Push（推送）</string>
+    <string name="menu_push_tooltip">Push current branch changes（推送当前分支变更）</string>
+    <string name="menu_branch">Branch（分支）</string>
+    <string name="menu_branch_tooltip">Create a new branch（创建新分支）</string>
+    <string name="menu_stash">Stash（暂存）</string>
+    <string name="menu_stash_tooltip">Stash uncommitted changes（暂存未提交变更）</string>
+    <string name="menu_pop_stash">Pop stash（弹出暂存）</string>
+    <string name="menu_pop_stash_tooltip">Pop the last stash（弹出最近一次暂存）</string>
+    <string name="menu_terminal">Terminal（终端）</string>
+    <string name="menu_terminal_tooltip">Open a terminal in the repository's path（在仓库路径下打开终端）</string>
+    <string name="menu_actions">Actions（操作）</string>
+    <string name="menu_actions_tooltip">Additional actions（更多操作）</string>
+    <string name="menu_settings">Settings（设置）</string>
+    <string name="menu_settings_tooltip">Gitnuro's settings（Gitnuro 设置）</string>
 
-    <string name="rebase_interactive_view_title">Rebase interactive</string>
-    <string name="rebase_interactive_view_button_complete_rebase">Complete rebase</string>
+    <string name="rebase_interactive_view_title">Rebase interactive（交互式变基）</string>
+    <string name="rebase_interactive_view_button_complete_rebase">Complete rebase（完成变基）</string>
 
     <!-- Bottom info bar -->
     <string name="bottom_info_bar_name_and_email">%1$s &lt;%2$s&gt;</string>
-    <string name="bottom_info_bar_name_not_set">Name not set</string>
-    <string name="bottom_info_bar_email_not_set">Email not set</string>
+    <string name="bottom_info_bar_name_not_set">Name not set（未设置姓名）</string>
+    <string name="bottom_info_bar_email_not_set">Email not set（未设置邮箱）</string>
     <string name="bottom_info_bar_update_available">Update %1$s available</string>
     <string name="bottom_info_bar_app_version">Version %1$s</string>
 
     <!-- Side pane view -->
     <string name="side_pane_search_hint">Search for branches, tags &amp; more</string>
-    <string name="side_pane_local_branches_title">Local branches</string>
+    <string name="side_pane_local_branches_title">Local branches（本地分支）</string>
     <string name="side_pane_local_branches_current_branch_label">HEAD</string>
-    <string name="side_pane_remotes_title">Remotes</string>
-    <string name="side_pane_tags_title">Tags</string>
-    <string name="side_pane_stashes_title">Stashes</string>
-    <string name="side_pane_submodules_title">Submodules</string>
+    <string name="side_pane_remotes_title">Remotes（远程仓库）</string>
+    <string name="side_pane_tags_title">Tags（标签）</string>
+    <string name="side_pane_stashes_title">Stashes（暂存区）</string>
+    <string name="side_pane_submodules_title">Submodules（子模块）</string>
 
     <!-- Uncommited changes view -->
-    <string name="uncommited_changes_unstaged_title">Unstaged</string>
-    <string name="uncommited_changes_unstaged_all_items_action">Stage all</string>
-    <string name="uncommited_changes_unstaged_selected_items_action">Stage selected</string>
-    <string name="uncommited_changes_unstaged_item_action">Stage</string>
+    <string name="uncommited_changes_unstaged_title">Unstaged（未暂存）</string>
+    <string name="uncommited_changes_unstaged_all_items_action">Stage all（全部暂存）</string>
+    <string name="uncommited_changes_unstaged_selected_items_action">Stage selected（暂存选中项）</string>
+    <string name="uncommited_changes_unstaged_item_action">Stage（暂存）</string>
 
-    <string name="uncommited_changes_staged_title">Staged</string>
-    <string name="uncommited_changes_staged_all_items_action">Unstage all</string>
-    <string name="uncommited_changes_staged_selected_items_action">Unstage selected</string>
-    <string name="uncommited_changes_staged_item_action">Unstage</string>
+    <string name="uncommited_changes_staged_title">Staged（已暂存）</string>
+    <string name="uncommited_changes_staged_all_items_action">Unstage all（全部取消暂存）</string>
+    <string name="uncommited_changes_staged_selected_items_action">Unstage selected（取消暂存选中项）</string>
+    <string name="uncommited_changes_staged_item_action">Unstage（取消暂存）</string>
 
-    <string name="uncommited_changes_text_input_label_message_read_only">Commit message (read-only)</string>
-    <string name="uncommited_changes_text_input_label_message">Write your commit message here</string>
-    <string name="uncommited_changes_primary_button_commit">Commit</string>
-    <string name="uncommited_changes_primary_button_amend">Amend</string>
-    <string name="uncommited_changes_primary_button_merge">Merge</string>
-    <string name="uncommited_changes_primary_button_continue">Continue</string>
+    <string name="uncommited_changes_text_input_label_message_read_only">Commit message (read-only)（提交信息（只读））</string>
+    <string name="uncommited_changes_text_input_label_message">Write your commit message here（在此编写提交信息）</string>
+    <string name="uncommited_changes_primary_button_commit">Commit（提交）</string>
+    <string name="uncommited_changes_primary_button_amend">Amend（修正）</string>
+    <string name="uncommited_changes_primary_button_merge">Merge（合并）</string>
+    <string name="uncommited_changes_primary_button_continue">Continue（继续）</string>
     <string name="uncommited_changes_primary_button_skip">Skip</string>
-    <string name="uncommited_changes_secondary_button_abort">Abort</string>
-    <string name="uncommited_changes_amend_check">Amend previous commit</string>
+    <string name="uncommited_changes_secondary_button_abort">Abort（中止）</string>
+    <string name="uncommited_changes_amend_check">Amend previous commit（修正上次提交）</string>
 
     <!-- Merge automatic stash -->
     <string name="merge_automatic_stash_description">Automatic stash before merge of "%1$s" to "%2$s"</string>
     <string name="pull_with_merge_automatic_stash_description">Automatic stash before pull of "%1$s"</string>
 
     <!-- Status entries context menu -->
-    <string name="status_entries_context_menu_delete_file">Delete file</string>
-    <string name="status_entries_context_menu_file_history">File history</string>
-    <string name="status_entries_context_menu_blame_file">Blame file</string>
-    <string name="status_entries_context_menu_discard_file_changes">Discard file changes</string>
-    <string name="status_entries_context_menu_open_file_in_folder">Open file in folder</string>
-    <string name="status_entries_context_menu_copy_file_absolute_path">Copy path</string>
-    <string name="status_entries_context_menu_copy_file_relative_path">Copy relative path</string>
+    <string name="status_entries_context_menu_delete_file">Delete file（删除文件）</string>
+    <string name="status_entries_context_menu_file_history">File history（文件历史）</string>
+    <string name="status_entries_context_menu_blame_file">Blame file（文件追溯）</string>
+    <string name="status_entries_context_menu_discard_file_changes">Discard file changes（丢弃文件变更）</string>
+    <string name="status_entries_context_menu_open_file_in_folder">Open file in folder（在文件夹中打开）</string>
+    <string name="status_entries_context_menu_copy_file_absolute_path">Copy path（复制路径）</string>
+    <string name="status_entries_context_menu_copy_file_relative_path">Copy relative path（复制相对路径）</string>
     <string name="status_entries_context_menu_discard_multiple_files">Discard %1$s files</string>
-    <string name="status_entries_context_menu_stage_multiple_files">Stage %1$s files</string>
-    <string name="status_entries_context_menu_unstage_multiple_files">Unstage %1$s files</string>
-    <string name="status_entries_context_menu_copy_files_absolute_paths">Copy paths</string>
-    <string name="status_entries_context_menu_copy_files_relative_paths">Copy relative paths</string>
+    <string name="status_entries_context_menu_stage_multiple_files">Stage（暂存） %1$s files</string>
+    <string name="status_entries_context_menu_unstage_multiple_files">Unstage（取消暂存） %1$s files</string>
+    <string name="status_entries_context_menu_copy_files_absolute_paths">Copy paths（复制路径）</string>
+    <string name="status_entries_context_menu_copy_files_relative_paths">Copy relative paths（复制相对路径）</string>
 
     <!-- Branch context menu -->
-    <string name="branch_context_menu_checkout_branch">Checkout branch</string>
-    <string name="branch_context_menu_merge_branch">Merge branch</string>
-    <string name="branch_context_menu_rebase_branch">Rebase branch</string>
-    <string name="branch_context_menu_push_current_to_target">Push "%1$s" to "%2$s"</string>
-    <string name="branch_context_menu_pull_target_to_current">Pull "%1$s" to "%2$s"</string>
-    <string name="branch_context_menu_rename_branch">Rename branch</string>
-    <string name="branch_context_menu_change_default_upstream_branch">Change default upstream branch</string>
-    <string name="branch_context_menu_delete_remote_branch">Delete remote branch</string>
-    <string name="branch_context_menu_delete_branch">Delete branch</string>
-    <string name="branch_context_menu_copy_branch_name">Copy branch name</string>
+    <string name="branch_context_menu_checkout_branch">Checkout branch（切换分支）</string>
+    <string name="branch_context_menu_merge_branch">Merge branch（合并分支）</string>
+    <string name="branch_context_menu_rebase_branch">Rebase branch（变基分支）</string>
+    <string name="branch_context_menu_push_current_to_target">Push（推送） "%1$s" to "%2$s"</string>
+    <string name="branch_context_menu_pull_target_to_current">Pull（拉取） "%1$s" to "%2$s"</string>
+    <string name="branch_context_menu_rename_branch">Rename branch（重命名分支）</string>
+    <string name="branch_context_menu_change_default_upstream_branch">Change default upstream branch（更改默认上游分支）</string>
+    <string name="branch_context_menu_delete_remote_branch">Delete remote branch（删除远程分支）</string>
+    <string name="branch_context_menu_delete_branch">Delete branch（删除分支）</string>
+    <string name="branch_context_menu_copy_branch_name">Copy branch name（复制分支名）</string>
 
     <!-- Committed changes context menu -->
-    <string name="committed_changes_context_menu_blame_file">Blame file</string>
-    <string name="committed_changes_context_menu_file_history">File history</string>
-    <string name="committed_changes_context_menu_open_file_in_folder">Open file in folder</string>
+    <string name="committed_changes_context_menu_blame_file">Blame file（文件追溯）</string>
+    <string name="committed_changes_context_menu_file_history">File history（文件历史）</string>
+    <string name="committed_changes_context_menu_open_file_in_folder">Open file in folder（在文件夹中打开）</string>
 
     <!-- Log context menu -->
-    <string name="log_context_menu_checkout_commit">Checkout commit</string>
-    <string name="log_context_menu_create_branch">Create branch</string>
-    <string name="log_context_menu_create_tag">Create tag</string>
-    <string name="log_context_menu_rebase_interactive">Rebase interactive</string>
-    <string name="log_context_menu_revert_commit">Revert commit</string>
-    <string name="log_context_menu_cherry_pick_commit">Cherry-pick commit</string>
-    <string name="log_context_menu_reset_current_branch_to_commit">Reset current branch to this commit</string>
+    <string name="log_context_menu_checkout_commit">Checkout commit（检出提交）</string>
+    <string name="log_context_menu_create_branch">Create branch（创建分支）</string>
+    <string name="log_context_menu_create_tag">Create tag（创建标签）</string>
+    <string name="log_context_menu_rebase_interactive">Rebase interactive（交互式变基）</string>
+    <string name="log_context_menu_revert_commit">Revert commit（撤销提交）</string>
+    <string name="log_context_menu_cherry_pick_commit">Cherry-pick commit（拣选提交）</string>
+    <string name="log_context_menu_reset_current_branch_to_commit">Reset current branch to this commit（重置当前分支到此提交）</string>
 
     <!-- Pull context menu -->
-    <string name="pull_context_menu_pull_with_merge">Pull with merge</string>
-    <string name="pull_context_menu_pull_with_rebase">Pull with rebase</string>
-    <string name="pull_context_menu_fetch_all">Fetch all</string>
+    <string name="pull_context_menu_pull_with_merge">Pull with merge（合并方式拉取）</string>
+    <string name="pull_context_menu_pull_with_rebase">Pull with rebase（变基方式拉取）</string>
+    <string name="pull_context_menu_fetch_all">Fetch all（获取全部）</string>
 
     <!-- Push context menu -->
-    <string name="push_context_menu_push_including_tags">Push including tags</string>
-    <string name="push_context_menu_force_push">Force push</string>
+    <string name="push_context_menu_push_including_tags">Push including tags（推送（含标签））</string>
+    <string name="push_context_menu_force_push">Force push（强制推送）</string>
 
     <!-- Remote context menu -->
-    <string name="remote_context_menu_edit">Edit</string>
-    <string name="remote_context_menu_delete">Delete</string>
-    <string name="remote_context_menu_fetch_all">Fetch branches</string>
+    <string name="remote_context_menu_edit">Edit（编辑）</string>
+    <string name="remote_context_menu_delete">Delete（删除）</string>
+    <string name="remote_context_menu_fetch_all">Fetch branches（获取分支）</string>
 
     <!-- Stash menu context menu -->
-    <string name="stash_context_menu_stash_with_message">Stash with message</string>
+    <string name="stash_context_menu_stash_with_message">Stash with message（附带信息暂存）</string>
 
     <!-- Stashes context menu -->
-    <string name="stashes_context_menu_apply_stash">Apply stash</string>
-    <string name="stashes_context_menu_pop_stash">Pop stash</string>
-    <string name="stashes_context_menu_drop_stash">Drop stash</string>
+    <string name="stashes_context_menu_apply_stash">Apply stash（应用暂存）</string>
+    <string name="stashes_context_menu_pop_stash">Pop stash（弹出暂存）</string>
+    <string name="stashes_context_menu_drop_stash">Drop stash（丢弃暂存）</string>
 
     <!-- Status dir entries context menu -->
-    <string name="status_dir_entries_context_menu_unstage_changes">Unstage changes in the directory</string>
-    <string name="status_dir_entries_context_menu_stage_changes">Stage changes in the directory</string>
-    <string name="status_dir_entries_context_menu_discard_changes">Discard changes</string>
+    <string name="status_dir_entries_context_menu_unstage_changes">Unstage changes in the directory（取消暂存目录中变更）</string>
+    <string name="status_dir_entries_context_menu_stage_changes">Stage changes in the directory（暂存目录中变更）</string>
+    <string name="status_dir_entries_context_menu_discard_changes">Discard changes（丢弃变更）</string>
 
     <!-- Submodules context menu -->
-    <string name="submodules_context_menu_initialize_submodule">Initialize submodule</string>
-    <string name="submodules_context_menu_open_submodule_in_tab">Open submodule in new tab</string>
-    <string name="submodules_context_menu_sync_submodule">Sync submodule</string>
-    <string name="submodules_context_menu_update_submodule">Update submodule</string>
-    <string name="submodules_context_menu_delete_submodule">Delete submodule</string>
+    <string name="submodules_context_menu_initialize_submodule">Initialize submodule（初始化子模块）</string>
+    <string name="submodules_context_menu_open_submodule_in_tab">Open submodule in new tab（在新标签页打开子模块）</string>
+    <string name="submodules_context_menu_sync_submodule">Sync submodule（同步子模块）</string>
+    <string name="submodules_context_menu_update_submodule">Update submodule（更新子模块）</string>
+    <string name="submodules_context_menu_delete_submodule">Delete submodule（删除子模块）</string>
 
     <!-- Tag context menu -->
-    <string name="tag_context_menu_checkout_tag_commit">Checkout tag's commit</string>
-    <string name="tag_context_menu_delete_tag">Delete tag</string>
+    <string name="tag_context_menu_checkout_tag_commit">Checkout tag's commit（检出标签提交）</string>
+    <string name="tag_context_menu_delete_tag">Delete tag（删除标签）</string>
 
     <!-- Settings -->
-    <string name="settings_environment_default_clone_directory_title">Default clone directory</string>
-    <string name="settings_environment_default_clone_directory_description">Directory that will be used as default when cloning a repository</string>
-    <string name="settings_section_user_interface">User interface</string>
-    <string name="settings_entry_appearance">Appearance</string>
-    <string name="settings_entry_layout">Layout</string>
-    <string name="settings_entry_datetime">Date/Time</string>
+    <string name="settings_environment_default_clone_directory_title">Default clone directory（默认克隆目录）</string>
+    <string name="settings_environment_default_clone_directory_description">Directory that will be used as default when cloning a repository（克隆仓库时使用的默认目录）</string>
+    <string name="settings_section_user_interface">User interface（用户界面）</string>
+    <string name="settings_entry_appearance">Appearance（外观）</string>
+    <string name="settings_entry_layout">Layout（布局）</string>
+    <string name="settings_entry_datetime">Date/Time（日期/时间）</string>
     <string name="settings_section_git">GIT</string>
-    <string name="settings_entry_environment">Environment</string>
+    <string name="settings_entry_environment">Environment（环境）</string>
     <string name="settings_entry_branches">Branches</string>
-    <string name="settings_entry_remote_actions">Remote actions</string>
-    <string name="settings_section_network">Network</string>
-    <string name="settings_entry_proxy">Proxy</string>
-    <string name="settings_entry_auth">Authentication</string>
-    <string name="settings_entry_security">Security</string>
-    <string name="settings_section_tools">Tools</string>
-    <string name="settings_entry_terminal">Terminal</string>
-    <string name="settings_entry_logs">Logs</string>
+    <string name="settings_entry_remote_actions">Remote actions（远程操作）</string>
+    <string name="settings_section_network">Network（网络）</string>
+    <string name="settings_entry_proxy">Proxy（代理）</string>
+    <string name="settings_entry_auth">Authentication（认证）</string>
+    <string name="settings_entry_security">Security（安全）</string>
+    <string name="settings_section_tools">Tools（工具）</string>
+    <string name="settings_entry_terminal">Terminal（终端）</string>
+    <string name="settings_entry_logs">Logs（日志）</string>
 
     <!-- Notifications -->
     <string name="notification_copied_branch_to_clipboard">"%1$s" copied to clipboard</string>
 
     <!-- Error dialog -->
-    <string name="error_dialog_copy_button_tooltip">Copy error</string>
+    <string name="error_dialog_copy_button_tooltip">Copy error（复制错误）</string>
 
 </resources>
